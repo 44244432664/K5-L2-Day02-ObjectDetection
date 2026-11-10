@@ -6,6 +6,7 @@ gold_train_labels.zip
 # Nhãn học viên trong dataset/labels/train/ phải được commit khi nộp bài.
 helper/
 .venv
+MSSV2.md
 
 
 # Kết quả local/Colab không mặc định đưa lên Git; nộp theo hướng dẫn giảng viên.
